@@ -1,0 +1,24 @@
+{
+  "name": "thomascarman.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write --loglevel=log --plugin-search-dir=. .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomascarman/thomascarman.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomascarman/thomascarman.github.io/issues"
+  },
+  "homepage": "https://github.com/thomascarman/thomascarman.github.io#readme",
+  "devDependencies": {
+    "prettier": "^2.6.0"
+  }
+}
