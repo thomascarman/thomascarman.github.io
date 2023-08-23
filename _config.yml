@@ -5,6 +5,7 @@ author:
 description: >
   Awesome Description Here
 
+show_downloads: true
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-remote-theme
