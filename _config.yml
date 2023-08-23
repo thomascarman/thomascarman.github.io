@@ -1,2 +1,10 @@
+title: Thomas Carman
+author:
+  name: Thomas Carman
+
+description: >
+  Awesome Description Here
+
 theme: jekyll-theme-hacker
-title: "Thomas Carman"
+plugins:
+  - jekyll-remote-theme
