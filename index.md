@@ -4,7 +4,7 @@ layout: default
 
 # ThomasCarman.github.io
 
-I'm hosted with Github Pages.</p>
+I'm hosted with Github Pages.
 
 ## Hello Github
 
