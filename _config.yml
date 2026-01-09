@@ -10,3 +10,7 @@ show_downloads: false
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-remote-theme
+
+# GitHub metadata settings
+repository: thomascarman/thomascarman.github.io
+github: [metadata]

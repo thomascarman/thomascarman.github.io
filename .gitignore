@@ -7,3 +7,12 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 **/.history
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+Gemfile.lock
+.bundle/
