@@ -115,7 +115,7 @@ Hi, I'm Thomas Carman — I'm currently building high‑impact internal systems 
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=ffffff&style=for-the-badge)](https://thomascarman.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/thomascarman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=ffffff&style=for-the-badge)](https://linkedin.com/in/thomas-carman-6a59b5122/)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=ffffff&style=for-the-badge)](https://codepen.io/thomascarman/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=ffffff&style=for-the-badge)](https://www.instagram.com/t_carman/)
