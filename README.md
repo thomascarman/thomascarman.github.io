@@ -35,6 +35,7 @@ _posts/YYYY-MM-DD-title-of-post.md
 ```
 
 Post format:
+
 ```markdown
 ---
 layout: post

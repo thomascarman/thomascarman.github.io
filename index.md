@@ -17,6 +17,7 @@ Hi, I'm Thomas Carman — a passionate software engineer with expertise in full-
 
 {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
 {% for post in sorted_posts limit:5 %}
+
 <div style="margin-bottom: 20px;">
   <h3 style="margin-bottom: 5px;"><a href="{{ post.url }}">{{ post.title }}</a></h3>
   <small style="color: #b5e853;">{{ post.date | date: "%B %d, %Y" }}</small>

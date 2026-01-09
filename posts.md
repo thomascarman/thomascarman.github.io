@@ -6,6 +6,7 @@ layout: default
 
 {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
 {% for post in sorted_posts %}
+
 <div style="margin-bottom: 30px; border-bottom: 1px solid #333; padding-bottom: 20px;">
   <h2 style="margin-bottom: 5px;"><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <small style="color: #b5e853;">{{ post.date | date: "%B %d, %Y" }}</small>
@@ -22,6 +23,7 @@ layout: default
 {% endfor %}
 
 {% if site.posts.size == 0 %}
+
 <p>No posts yet. Check back soon!</p>
 {% endif %}
 
