@@ -15,6 +15,9 @@
     <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
+          {% if site.logo %}
+          <img src="{{ site.logo | relative_url }}" alt="{{ site.title | default: 'Thomas Carman' }} Logo" style="max-height: 100px; margin-bottom: 10px;" />
+          {% endif %}
           <h1>{{ site.title | default: "Thomas Carman" }}</h1>
         </a>
         <h2>{{ site.description | default: "Software Engineer Portfolio" }}</h2>
