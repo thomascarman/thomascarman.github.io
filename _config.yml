@@ -3,9 +3,14 @@ author:
   name: Thomas Carman
 
 description: >
-  Awesome Description Here
+  Software Engineer | Full-Stack Developer | DevOps Enthusiast
+  Building innovative solutions with modern technologies
 
 show_downloads: false
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-remote-theme
+
+# GitHub metadata settings
+repository: thomascarman/thomascarman.github.io
+github: [metadata]

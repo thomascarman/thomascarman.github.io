@@ -1,1 +1,5 @@
 **/node_modules/*
+vendor/
+_site/
+_layouts/
+*.lock
